@@ -1,0 +1,37 @@
+__pycache__/
+.venv/
+venv/
+.env
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# IDE configs
+.idea/
+.vscode/
+
+# Local databases / data dumps
+*.db
+*.sqlite
+
+# Docker artifacts
+*.pid
+
+# Testing caches
+.pytest_cache/
+
+# Static type checkers / coverage
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log
+
