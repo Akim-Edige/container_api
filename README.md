@@ -1,6 +1,6 @@
 # Container Storage API
 
-REST API for managing shipping containers and storage zones, built with FastAPI and PostgreSQL. Includes optional WebSocket events and Docker tooling for local development.
+REST API for managing shipping containers and storage zones, built with FastAPI and PostgreSQL. Includes WebSocket events and Docker.
 
 ## Features
 - CRUD-style endpoints for containers and zones
